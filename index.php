@@ -1,5 +1,5 @@
 <?php 
- cho "the third line form cli";
+  echo "the third line form cli";
 
 
   echo "hello world";

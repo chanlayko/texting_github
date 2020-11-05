@@ -7,3 +7,5 @@ echo "thir line form online";
 
 echo "third line form cli";
 
+echo "inline stylw";
+
